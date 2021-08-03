@@ -1,0 +1,13 @@
+{
+  "name": "ie-redirect",
+  "version": "1.0.0",
+  "description": "Redirects IE users to your choice of a browser download page",
+  "main": "main.js",
+  "repository": "https://github.com/raikasdev/ie-redirect",
+  "author": "raikasdev",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express-useragent": "^1.0.15"
+  }
+}
